@@ -12,7 +12,7 @@
 Espero que aprendan mucho en este curso!
 
 ### **Bryan Vargas**
-
+Hello there!!  :D
 ### **Carlos Gomez**
 
 ### **Emily Cordero**
