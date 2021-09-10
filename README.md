@@ -5,3 +5,13 @@
 - Carlos Gomez
 - Emily Cordero
 - Joel Velez
+
+# *Sección participantes*
+
+### **Bryan Vargas**
+
+### **Carlos Gomez**
+
+### **Emily Cordero**
+
+### **Joel Velez**
