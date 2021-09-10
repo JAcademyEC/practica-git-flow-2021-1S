@@ -8,6 +8,9 @@
 
 # *Sección participantes*
 
+### **Aron Caballero**
+Espero que aprendan mucho en este curso!
+
 ### **Bryan Vargas**
 
 ### **Carlos Gomez**
