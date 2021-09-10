@@ -12,6 +12,8 @@
 
 ### **Carlos Gomez**
 
+Solo nos queda barcelona c:
+
 ### **Emily Cordero**
 
 ### **Joel Velez**
