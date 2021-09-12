@@ -5,7 +5,7 @@
 - Carlos Danilo Gomez Tello
 - Emily Cordero
 - Joel Velez
-- David Mena
+- David Enrique Mena Pasquel
 
 # *Sección participantes*
 
@@ -23,5 +23,5 @@ Hello there!!  :D
 
 ### **Joel Velez**
 
-### **David Mena**
+### **David Enrique Mena Pasquel**
 Wenas
