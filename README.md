@@ -5,15 +5,23 @@
 - Carlos Danilo Gomez Tello
 - Emily Cordero
 - Joel Velez
+- David Mena
 
 # *Sección participantes*
 
-### **Bryan Vargas**
+### **Aron Caballero**
+Espero que aprendan mucho en este curso!
 
 ### **Carlos  Danilo Gomez Tello**
 
 Solo nos queda barcelona c:
+### **Bryan Vargas**
+Hello there!!  :D
+### **Carlos Gomez**
 
 ### **Emily Cordero**
 
 ### **Joel Velez**
+
+### **David Mena**
+Wenas
