@@ -2,7 +2,7 @@
 # **Practica de Flujos en equipos de trabajo con CSV**
 
 - Bryan Vargas
-- Carlos Gomez
+- Carlos Danilo Gomez Tello
 - Emily Cordero
 - Joel Velez
 
@@ -10,7 +10,7 @@
 
 ### **Bryan Vargas**
 
-### **Carlos Gomez**
+### **Carlos  Danilo Gomez Tello**
 
 Solo nos queda barcelona c:
 
