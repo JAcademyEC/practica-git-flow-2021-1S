@@ -2,7 +2,7 @@
 # **Practica de Flujos en equipos de trabajo con CSV**
 
 - Bryan Vargas
-- Carlos Gomez
+- Carlos Danilo Gomez Tello
 - Emily Cordero
 - Joel Velez
 - David Mena
@@ -12,6 +12,9 @@
 ### **Aron Caballero**
 Espero que aprendan mucho en este curso!
 
+### **Carlos  Danilo Gomez Tello**
+
+Solo nos queda barcelona c:
 ### **Bryan Vargas**
 Hello there!!  :D
 ### **Carlos Gomez**
