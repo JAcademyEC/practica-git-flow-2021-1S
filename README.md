@@ -9,7 +9,7 @@
 
 # *Sección participantes*
 
-### **Aron Caballero**
+### **Aron Josue Caballero Macias**
 Espero que aprendan mucho en este curso!
 
 ### **Carlos  Danilo Gomez Tello**
