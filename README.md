@@ -5,6 +5,7 @@
 - Carlos Gomez
 - Emily Cordero
 - Joel Velez
+- David Mena
 
 # *Sección participantes*
 
@@ -18,3 +19,6 @@ Hello there!!  :D
 ### **Emily Cordero**
 
 ### **Joel Velez**
+
+### **David Mena**
+Wenas
